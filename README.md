@@ -32,18 +32,17 @@ The game should repeat until the player quits by pressing
 
 
 #pseudocode for game logic
-  //while true
-  //show prompt
-  //read user input from console
-  //if input is valid move("r", "p","s")
-  //choose the AI move at random
-  //compare the player move with AI move
-  //show the result
-  //else if input is "q"
-  //Quit the progress
-  //else
-  //invalid input
+ 1. while true
+ 2. show prompt
+ 3. read user input from console
+ 4. if input is valid move("r", "p","s")
+ 5. choose the AI move at random
+ 6. compare the player move with AI move
+ 7. show the result
+ 8.  else if input is "q"
+ 9. Quit the progress
+ 10. else
+ 11. invalid input
   
-![image](https://github.com/sainideepanshu199/rock_paper_scissors/assets/114583893/cc2adeeb-238b-48f3-8575-cae51016e920)
-![image](https://github.com/sainideepanshu199/rock_paper_scissors/assets/114583893/cd493f05-bdd8-43eb-9164-e258f3e9706a)
+![image](https://github.com/sainideepanshu199/rock_paper_scissors/assets/114583893/cc2adeeb-238b-48f3-8575-cae51016e920) ![image](https://github.com/sainideepanshu199/rock_paper_scissors/assets/114583893/7eca11d7-59f5-4ff1-977c-926dad6a4013)
 
