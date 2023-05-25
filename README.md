@@ -29,7 +29,9 @@ You lose
 ```
 
 The game should repeat until the player quits by pressing
-pseudocode for game logic
+
+
+#pseudocode for game logic
   //while true
   //show prompt
   //read user input from console
@@ -41,5 +43,7 @@ pseudocode for game logic
   //Quit the progress
   //else
   //invalid input
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a79e4bc7-9dde-42da-9067-cfebddbc808a/Untitled.png)
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/decef5c5-9d37-4bbd-a1b2-865d8475f53e/Untitled.png)
+  
+![image](https://github.com/sainideepanshu199/rock_paper_scissors/assets/114583893/cc2adeeb-238b-48f3-8575-cae51016e920)
+![image](https://github.com/sainideepanshu199/rock_paper_scissors/assets/114583893/cd493f05-bdd8-43eb-9164-e258f3e9706a)
+
